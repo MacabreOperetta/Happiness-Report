@@ -1,2 +1,2 @@
 # Happiness-Report
-Determine Quality of Life Parameters According to Turkey's Happiness Inde
+Determine Quality of Life Parameters According to Turkey's Happiness Index
